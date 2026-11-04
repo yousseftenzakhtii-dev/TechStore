@@ -1,0 +1,99 @@
+===== PARTIE 1 : PERSONNES ET ADRESSES =====
+L'adresse a1 : Adresse [gouvernorat=Monastir, codePostal=5000]
+L'adresse a2 : Adresse [gouvernorat=Ben Arous, codePostal=1133]
+L'adresse a3 : Adresse [gouvernorat=Ben Arous, codePostal=1145]
+
+La personne p1 : cin=01111111, nom=Kbayer, prenom=Jasser, Adresse [gouvernorat=Jendouba, codePostal=8160]
+La personne p2 : cin=02222222, nom=Smida, prenom=Ghayth, Adresse [gouvernorat=Monastir, codePostal=5000]
+
+Informations initiales :
+cin=01111111, nom=Kbayer, prenom=Jasser, Adresse [gouvernorat=Jendouba, codePostal=8160]
+cin=02222222, nom=Smida, prenom=Ghayth, Adresse [gouvernorat=Monastir, codePostal=5000]
+
+Informations après modification :
+cin=01111111, nom=Karray, prenom=Yassine, Adresse [gouvernorat=Jendouba, codePostal=8160]
+cin=02222222, nom=Smida, prenom=Ghayth, Adresse [gouvernorat=Ben Arous, codePostal=1145]
+
+
+Stock initial :
+Element [article=id=1, nom=Micro Casque 588 Filaire, reference=MCeie1, prix=49.0, quantite=5]
+
+========== GESTION DU STOCK TECHSTORE ==========
+0 - Ajouter un article
+1 - Augmenter la quantité d'un article
+2 - Modifier un article
+3 - Supprimer un article
+4 - Consulter le stock
+5 - Quitter
+Votre choix : Nom de l'article : Prix (TND) : Quantité : Article ajouté. Référence : Aiern2, quantité en stock : 8
+
+========== GESTION DU STOCK TECHSTORE ==========
+0 - Ajouter un article
+1 - Augmenter la quantité d'un article
+2 - Modifier un article
+3 - Supprimer un article
+4 - Consulter le stock
+5 - Quitter
+Votre choix : Référence de l'article à modifier : Nouveau nom : Nouveau prix (TND) : Nouvelle quantité : Article modifié. Nouvelle référence : Aiern3.
+
+========== GESTION DU STOCK TECHSTORE ==========
+0 - Ajouter un article
+1 - Augmenter la quantité d'un article
+2 - Modifier un article
+3 - Supprimer un article
+4 - Consulter le stock
+5 - Quitter
+Votre choix : 
+--- Stock (2 article(s)) ---
+Element [article=id=1, nom=Micro Casque 588 Filaire, reference=MCeie1, prix=49.0, quantite=5]
+Element [article=id=3, nom=Apple iPad 8e Génération, reference=Aiern3, prix=1629.0, quantite=8]
+
+========== GESTION DU STOCK TECHSTORE ==========
+0 - Ajouter un article
+1 - Augmenter la quantité d'un article
+2 - Modifier un article
+3 - Supprimer un article
+4 - Consulter le stock
+5 - Quitter
+Votre choix : Référence de l'article : Quantité à ajouter : Quantité augmentée de 3 pour Aiern3.
+
+========== GESTION DU STOCK TECHSTORE ==========
+0 - Ajouter un article
+1 - Augmenter la quantité d'un article
+2 - Modifier un article
+3 - Supprimer un article
+4 - Consulter le stock
+5 - Quitter
+Votre choix : 
+--- Stock (2 article(s)) ---
+Element [article=id=1, nom=Micro Casque 588 Filaire, reference=MCeie1, prix=49.0, quantite=5]
+Element [article=id=3, nom=Apple iPad 8e Génération, reference=Aiern3, prix=1629.0, quantite=11]
+
+========== GESTION DU STOCK TECHSTORE ==========
+0 - Ajouter un article
+1 - Augmenter la quantité d'un article
+2 - Modifier un article
+3 - Supprimer un article
+4 - Consulter le stock
+5 - Quitter
+Votre choix : Référence de l'article à supprimer : Article MCeie1 supprimé du stock.
+
+========== GESTION DU STOCK TECHSTORE ==========
+0 - Ajouter un article
+1 - Augmenter la quantité d'un article
+2 - Modifier un article
+3 - Supprimer un article
+4 - Consulter le stock
+5 - Quitter
+Votre choix : 
+--- Stock (1 article(s)) ---
+Element [article=id=3, nom=Apple iPad 8e Génération, reference=Aiern3, prix=1629.0, quantite=11]
+
+========== GESTION DU STOCK TECHSTORE ==========
+0 - Ajouter un article
+1 - Augmenter la quantité d'un article
+2 - Modifier un article
+3 - Supprimer un article
+4 - Consulter le stock
+5 - Quitter
+Votre choix : Au revoir.
